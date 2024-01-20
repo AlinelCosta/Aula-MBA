@@ -1,3 +1,8 @@
 # Aula-MBA
+class cal:
+ def equal(self, a,b):
+  return a + b
 
-Print ('new print')
+   def equal_2(self, a,b)
+    return a * b
+
